@@ -1,0 +1,13 @@
+/* HEADER */
+header {
+    align-items: center;
+    margin: 2rem 0;
+}
+
+header img {
+    width: 12.5rem;
+}
+
+header article{
+    margin: 0;
+}
